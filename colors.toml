@@ -1,0 +1,37 @@
+# CGA palette 1 (high intensity): black, cyan, magenta, white.
+# Normal ANSI slots use the low-intensity CGA variants, bright slots the high-intensity ones.
+mode = "dark"
+
+accent = "#55ffff"
+selection = "#ff55ff"
+selection_foreground = "#000000"
+muted = "#aa00aa"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#002a2a"
+
+foreground = "#ffffff"
+dark_foreground = "#00aaaa"
+light_foreground = "#aaaaaa"
+bright_foreground = "#ffffff"
+
+red = "#ff55ff"
+yellow = "#ffffff"
+orange = "#ff55ff"
+green = "#55ffff"
+cyan = "#00aaaa"
+blue = "#00aaaa"
+magenta = "#aa00aa"
+brown = "#aa00aa"
+
+bright_red = "#ff55ff"
+bright_yellow = "#ffffff"
+bright_green = "#55ffff"
+bright_cyan = "#55ffff"
+bright_blue = "#55ffff"
+bright_magenta = "#ff55ff"
+
+hyprland_active_border = "rgb(ff55ff)"
+hyprland_inactive_border = "rgb(aa00aa)"
